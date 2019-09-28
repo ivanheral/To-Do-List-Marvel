@@ -1,4 +1,4 @@
-import bs from 'servor';
+import bs from 'taskr-build/fw/servor';
 bs.start({
     root: 'dist',
     port: 9000
